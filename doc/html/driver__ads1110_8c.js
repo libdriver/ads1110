@@ -1,0 +1,26 @@
+var driver__ads1110_8c =
+[
+    [ "CHIP_NAME", "driver__ads1110_8c.html#adc9da0a24824ca1239b593f6459b3954", null ],
+    [ "DRIVER_VERSION", "driver__ads1110_8c.html#ae578001fe043b4cca7a0edd801cfe9c4", null ],
+    [ "MANUFACTURER_NAME", "driver__ads1110_8c.html#aaa2b8f5b105c3019df0cb346f472e803", null ],
+    [ "MAX_CURRENT", "driver__ads1110_8c.html#a2989837a37d6d63b59c6dd541b785435", null ],
+    [ "SUPPLY_VOLTAGE_MAX", "driver__ads1110_8c.html#a68eba8b601afe11f1b871d944976c035", null ],
+    [ "SUPPLY_VOLTAGE_MIN", "driver__ads1110_8c.html#aac8d8cbd899667d609787ef4cf37054d", null ],
+    [ "TEMPERATURE_MAX", "driver__ads1110_8c.html#a90c0b20d54005712fcc8cb01281360e9", null ],
+    [ "TEMPERATURE_MIN", "driver__ads1110_8c.html#aab353db5bf4eb787f86a2080f609a551", null ],
+    [ "ads1110_continuous_read", "group__ads1110__base__driver.html#gaa39f0312579ada41f9906cae3c20a045", null ],
+    [ "ads1110_deinit", "group__ads1110__base__driver.html#ga12f1f793cf0fa2205a0ce7475962ef1f", null ],
+    [ "ads1110_get_addr_pin", "group__ads1110__base__driver.html#gaad0766e04d719dd7158d2d57e734e61d", null ],
+    [ "ads1110_get_gain", "group__ads1110__base__driver.html#ga896cd66ec23866701d9ebcaa1e7f4c3d", null ],
+    [ "ads1110_get_rate", "group__ads1110__base__driver.html#ga8be370fb7b266f6c2974c73d273a77f2", null ],
+    [ "ads1110_get_reg", "group__ads1110__extend__driver.html#ga019543f400a3328ebcac651c12dbc175", null ],
+    [ "ads1110_info", "group__ads1110__base__driver.html#ga60412cd03ca232f32602fe8c4cd0cbc9", null ],
+    [ "ads1110_init", "group__ads1110__base__driver.html#ga9fee93b4a7461ee38872c77130fafc05", null ],
+    [ "ads1110_set_addr_pin", "group__ads1110__base__driver.html#ga5a3a33068b5131767a51d52525d32c21", null ],
+    [ "ads1110_set_gain", "group__ads1110__base__driver.html#gac9fa03cdf3857612153ef63066581382", null ],
+    [ "ads1110_set_rate", "group__ads1110__base__driver.html#ga0bc80950c85056d3c9d98442dca9dcf1", null ],
+    [ "ads1110_set_reg", "group__ads1110__extend__driver.html#ga5682810aacc1206079539ec0da2dbfdf", null ],
+    [ "ads1110_single_read", "group__ads1110__base__driver.html#ga10ecb39d24868305cdc41ea67cc4ee38", null ],
+    [ "ads1110_start_continuous_read", "group__ads1110__base__driver.html#gada04ce418b3a636be8cb1030de101a90", null ],
+    [ "ads1110_stop_continuous_read", "group__ads1110__base__driver.html#ga69546be7a387c5e434454ef5fa157ccd", null ]
+];
