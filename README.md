@@ -10,7 +10,7 @@
 
 The ADS1110 is a precision, continuously self−calibrating Analog-to-Digital (A/D) converter with differential inputs and up to 16 bits of resolution in a small SOT23-6 package. The onboard 2.048V reference provides an input range of ±2.048V differentially. The ADS1110 uses an I2C-compatible serial interface and operates from a single power supply ranging from 2.7V to 5.5V. The ADS1110 can perform conversions at rates of 15, 30, 60, or 240 samples per second. The onboard programmable gain amplifier (PGA), which offers gains of up to 8, allows smaller signals to be measured with high resolution. In single-conversion mode, the ADS1110 automatically powers down after a conversion, greatly reducing current consumption during idle periods. The ADS1110 is designed for applications requiring high-resolution measurement, where space and power consumption are major considerations. Typical applications include portable instrumentation, industrial process control, and smart transmitters.
 
-LibDriver ADS1110 is a full-featured driver of ADS1110 launched by LibDriver. LibDriver ADS1110 provides continuous mode A / D conversion, single mode A / D conversion and other functions. LibDriver is MISRA compliant.
+LibDriver ADS1110 is a full-featured driver for ADS1110, launched by LibDriver. It provides continuous reading, single reading and additional features. LibDriver is MISRA compliant.
 
 ### Table of Contents
 
